@@ -1,4 +1,4 @@
-## Tracking, Testing and Measuring Accuracy in a Trained Word2Vec Model
+# Tracking, Testing and Measuring Accuracy in a Trained Word2Vec Model
 
 This project shows and explores a preliminary study for training and measuring a Word2Vec model that questions: How does one make and measure if one has a good word2vec model for vector representation? 
 This is answered in a effectively, compressed print which shows 16 scatter plots as a spatial map to track and test the outcome of eight trained w2v sets on its accuracy. 
@@ -7,19 +7,19 @@ This is answered in a effectively, compressed print which shows 16 scatter plots
 This project hosts 4 files for Tracking, Testing and Measuring Accuracy in a Trained Word2Vec Model. 
 
 
-# Word2Vec_Potter2Vec_OnlyTrainModel.py
+## Word2Vec_Potter2Vec_OnlyTrainModel.py
 > Code to train a W2V model
 
-# Word2Vec_Potter2Vec_OnlyLoadModel.py
+## Word2Vec_Potter2Vec_OnlyLoadModel.py
 > Code to only Load a W2V model in the Terminal
 
 # ScatterPlotBig.ipynb
 > Makes a Big Scatter Plot of a trained model
 
-# ScatterPlotRegion.ipynb
+## ScatterPlotRegion.ipynb
 > Makes a Region Scatter Plot of a trained model 
 
-# Folder Bookfiles
+## Folder Bookfiles
 > Bookfiles folder consists of all the data the w2v models are trained with: 
 
 Data fed as .TXT files: 
@@ -34,35 +34,11 @@ Novel Series of Harry Potter
 
 total amount of words: 817.636
 
-# Folder trained
+# Trained datasets: 
 > Consists of PotterW2V trained models: 
-potter2vec100_1.w2v
-potter2vec100_10.w2v
-
-potter2vec300_1.w2v
-potter2vec300_10.w2v
-
-potter2vec500_1.w2v
-potter2vec500_2.w2v
-potter2vec500_5.w2v
-potter2vec500_10.w2v
-
-potter2vec1000_1.w2v
-potter2vec1000_1.w2v.trainables.syn1neg.npy
-potter2vec1000_1.w2v.wv.vectors.npy
-potter2vec1000_10.w2v
-potter2vec1000_10.w2v.trainables.syn1neg.npy
-potter2vec1000_10.w2v.wv.vectors.npy
-
-potter2vec2000_20.w2v
-potter2vec2000_20.w2v.trainables.syn1neg.npy
-potter2vec2000_20.w2v.wv.vectors.npy
-
-potter2vec3000_30.w2v
-potter2vec3000_30.w2v.trainables.syn1neg.npy
-potter2vec3000_30.w2v.wv.vectors.npy
-
-
+## potter2vec100_1.w2v
+## potter2vec100_10.w2v
+## potter2vec1000_1.w2v.trainables.syn1neg.npy
 
 ### Getting started
 
