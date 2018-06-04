@@ -38,7 +38,7 @@ total amount of words: 817.636
 > Consists of PotterW2V trained models: 
 ## potter2vec100_1.w2v
 ## potter2vec100_10.w2v
-## potter2vec1000_1.w2v.trainables.syn1neg.npy
+> Only use for tryout, these are smaller datasets because of the upload max of Github.
 
 ### Getting started
 
